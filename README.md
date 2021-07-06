@@ -28,7 +28,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Something cool.
+- 💡 &nbsp;I like to explore new trends and learn new technologies.\
 - 🌱 I’m currently learning more about BlockChain.
 - 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: [Twitter - @ashishmishraoft](https://twitter.com/ashishmishraoft)
