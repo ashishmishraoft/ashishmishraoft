@@ -1,4 +1,4 @@
-## Hola, I'm [Ashish Kumar!]() 👋
+#<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /> Hi, I'm [Ashish Kumar!]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmishraoft&label=Views&color=blue&style=plastic" alt="ashishmishraoft" /> </p>
 
